@@ -1,3 +1,3 @@
 # BankManagement
 
-ESSE PROJETO É UMA IDEIA PROPIA MINHA QUE POR HOOBIE QUERO CADA VEZ MAIS ADICIONAR FEATURES NELE
+Esse projeto venho desenvolvendo como hoobie e quero adicionar varias features para ficar o mais parecido ou até melhor que uma conta no banco
